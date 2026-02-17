@@ -174,4 +174,4 @@ Map visualization to track state-wise sales performance.
 ✔ Sales and profit show strong growth toward year-end
 
 📷 Dashboard Preview
-![Dashboard Preview](Dashbord.png)
+![Dashboard Preview](Dashboard.png)
