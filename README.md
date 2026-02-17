@@ -1,6 +1,6 @@
 # 🛒 Super Store Sales Dashboard
 
-An interactive Power BI Sales Analytics Dashboard built to analyze retail sales performance, track profit trends, and generate actionable business insights from raw sales data.
+An interactive Power BI Sales Anal ytics Dashboard built to analyze retail sales performance, track profit trends, and generate actionable business insights from raw sales data.
 This project demonstrates how retail data can be transformed into meaningful visual stories to support smarter business decisions.
 
 # 📌 Project Overview
